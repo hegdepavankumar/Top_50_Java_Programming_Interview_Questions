@@ -13,13 +13,11 @@ public class Question2 {
         int temp = a;
         System.out.println("a is " + a + " and b is " + b);
 
-        // a = a + b;
-        // b = a - b; //Method 1
-        // a = a - b;
+         a = a + b;
+         b = a - b; 
+         a = a - b;
 
-        a = temp;
-        a = b; // method 2
-        b = temp;
+       
         System.out.println("After swapping, a is " + a + " and b is " + b);
     }
 
