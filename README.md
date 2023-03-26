@@ -13,4 +13,4 @@
 
 | Number | Question| Solutions |
 |:------:|------------|:---------:|
-| 1 | How do you reverse a string in Java? | [Solution](https://github.com/hegdepavankumar/HackerRank-Solutions/blob/main/JAVA/Welcome%20to%20Java!.java)
+| 1 | How do you reverse a string in Java? | [Solution](https://github.com/hegdepavankumar/Top_50_Java_Programming_Interview_Questions/blob/main/Java_Programs/Question1.java)
