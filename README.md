@@ -7,7 +7,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/Top_50_Java_Programming_Interview_Questions.svg?cache=remove)
 
 
-
 <br>
 
 
